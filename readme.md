@@ -25,11 +25,11 @@
 
 <table border="2">
     <div align="center">
-        <img width="300" height="250" src="./src/asset/readme/cart_android.jpeg">
-        <img width="300" height="250" src="./src/asset/readme/cart_nm.jpeg">
-        <img width="300" height="250" src="./src/asset/readme/drawer_andorid.jpeg">
-        <img width="300" height="250" src="./src/asset/readme/home_android.jpeg">
-        <img width="300" height="250" src="./src/asset/readme/profile_android.jpeg">
+        <img width="300" height="250" src="./src/assets/readme/cart_android.jpeg">
+        <img width="300" height="250" src="./src/assets/readme/cart_nm.jpeg">
+        <img width="300" height="250" src="./src/assets/readme/drawer_andorid.jpeg">
+        <img width="300" height="250" src="./src/assets/readme/home_android.jpeg">
+        <img width="300" height="250" src="./src/assets/readme/profile_android.jpeg">
     </div>
 </table>
 
